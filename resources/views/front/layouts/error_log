@@ -1,0 +1,4 @@
+[03-Dec-2022 17:10:48 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Models\General_setting' not found in /home/webmasar/public_html/resources/views/front/layouts/header.blade.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/webmasar/public_html/resources/views/front/layouts/header.blade.php on line 8

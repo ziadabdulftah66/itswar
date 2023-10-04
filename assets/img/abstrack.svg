@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="185.643" height="110.467" viewBox="0 0 185.643 110.467">
+  <g id="abstrack" transform="translate(-9.184 46.33) rotate(-14)">
+    <path id="Vector_352" data-name="Vector 352" d="M0,28.6s23.56,14.2,59.291,15.243C97.448,44.957,108.864-1.792,173.058.079" transform="translate(183.449 41.948) rotate(174.105)" fill="none" stroke="#0d62fc" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" stroke-dasharray="3 3"/>
+    <g id="Ellipse_1213" data-name="Ellipse 1213" transform="translate(195.383 21.695) rotate(174.105)" fill="none" stroke="#0d62fc" stroke-width="2">
+      <circle cx="5" cy="5" r="5" stroke="none"/>
+      <circle cx="5" cy="5" r="4" fill="none"/>
+    </g>
+    <path id="Vector_353" data-name="Vector 353" d="M0,9,4.5,4.5,0,0" transform="translate(5.401 64.147) rotate(174.105)" fill="none" stroke="#0d62fc" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+  </g>
+</svg>

@@ -1,0 +1,189 @@
+@media only screen and (max-width:990px) {
+    .header-bar .menu ul li {
+        margin-left: 10px;
+    }
+    .intro .content
+    {
+        width: 100%;
+    }
+    .intro .content h4 .line1
+    {
+        left: 200px;
+    }
+    .itswr-steps .steps .one  , .itswr-steps .steps .two
+    {
+        width: 13%;
+    }
+    .examples-docs .ex .one
+    {
+        padding: 20px 10px;
+    }
+    .examples-docs .ex .one h5
+    {
+        font-size: 12px;
+    }
+    .about-itswr .content p
+    {
+        width: 100%;
+    }
+    .examples-docs .ex .one p
+    {
+        font-size: 12px;
+    }
+    .examples-docs .content p
+    {
+        width: 100%;
+    }
+    .itswr-page #itswrForm .documentType ul li
+    {
+        margin-left: 12px;
+    }
+    .itswr-page .receiving-photo .right-one .info {
+        margin-top: 20px;
+    }
+}
+@media only screen and (max-width:767px) {
+    .header-bar .menu ul
+    {
+        display: none;
+    }
+    .intro .content , .about-itswr .content , .about-itswr .content p
+    {
+        width: 100%;
+    }
+    .intro .content h4 .line1
+    {
+        left: 120px;
+    }
+    .about-itswr .content .circles
+    {
+        display: none;
+    }
+    .about-itswr .about-pic .line {
+        width: auto;
+        display: block;
+        margin: 0 auto;
+        margin-top: 20%;
+        transform: rotate(270deg);
+    }
+    .itswr-steps .head-bar h5
+    {
+        display: none;
+    }
+    .itswr-steps .steps .line-h
+    {
+        display: none;
+    }
+    .itswr-steps .steps .one
+    {
+        float: right;
+        width: 48%;
+        margin-top: -50px;
+    }
+    .itswr-steps .steps .two {
+        float: right;
+        width: 48%;
+        margin: 40px 0px !important;
+    }
+    .examples-docs .content p
+    {
+        width: 100%;
+    }
+    .examples-docs .ex .one
+    {
+        text-align: center;
+    }
+    .mistakes-itswr .one
+    {
+        margin: 20px 0px;
+    }
+    .footer .content .menu
+    {
+        display: none;
+    }
+    .footer .content .social
+    {
+        padding-bottom: 15px;
+        padding-top: 15px;
+    }
+    .footer .copyright
+    {
+        text-align: center;
+    }
+    .footer .copyright h3 img
+    {
+        display: block;
+        float: none;
+        margin: 0 auto;
+        margin-top: 15px;
+    }
+    .examples-docs .content
+    {
+        margin-bottom: 100px;
+        margin-top: 50px;
+        width: 100%;
+        float: right;
+    }
+    .header-bar .hidden-xx
+    {
+        display: inline-block;
+    }
+    .question .accordion
+    {
+        font-size: 12px;
+    }
+    .terms-conditions .content
+    {
+        width: 100%;
+    }
+    .contact-us
+    {
+        height: 500px;
+    }
+    .contact-us form
+    {
+        margin-top: 60px;
+    }
+    .itswr-page .itswr-road .one h4
+    {
+        font-size: 10px;
+    }
+    .itswr-page #itswrForm .documentType ul li
+    {
+        width: 100%;
+        margin-left: 0px;
+    }
+    .itswr-page .continue , .itswr-page .back
+    {
+        float: right;
+        width: 100%;
+        margin-top:30px;
+        margin-left: 0px;
+    }
+    .itswr-page .receiving-photo .payment
+    {
+        margin-top: 20px;
+    }
+    .itswr-page .receiving-photo .payment input
+    {
+        width: 100%!important;
+    }
+    .itswr-done .done h1
+    {
+        float: right;
+        width: 100%;
+    }
+    .request-view .request-info h5
+    {
+        float: right;
+    }
+    .search-request .content form
+    {
+        padding: 15px;
+    }
+
+
+
+
+}
+
